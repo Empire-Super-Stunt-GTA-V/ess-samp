@@ -2,6 +2,8 @@
 
 # Some media:
 
-[![Gang System](https://img.youtube.com/vi/lJXItGrLR50/0.jpg)](https://www.youtube.com/watch?v=lJXItGrLR50)<br>Gang System
+Gang System:<br>
+[![Gang System](https://img.youtube.com/vi/lJXItGrLR50/0.jpg)](https://www.youtube.com/watch?v=lJXItGrLR50)
 
-[![Pesonal Vehicle System](https://img.youtube.com/vi/fGjpWDcP5no/0.jpg)](https://www.youtube.com/watch?v=fGjpWDcP5no)<br>Pesonal Vehicle System
+Pesonal Vehicle System<br>
+[![Pesonal Vehicle System](https://img.youtube.com/vi/fGjpWDcP5no/0.jpg)](https://www.youtube.com/watch?v=fGjpWDcP5no)
