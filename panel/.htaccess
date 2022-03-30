@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (\.[a-zA-Z0-9]{1,5}|#(.*))$ error/?err=404
+
+RewriteCond %{HTTP_HOST} ^ess-server\.com$
+RewriteRule ^(.*) https://www.ess-server.com/$1 [R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
