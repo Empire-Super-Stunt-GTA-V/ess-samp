@@ -629,3 +629,85 @@ MySQL: Connection to 'localhost' established.
 
 *** Streamer Plugin v2.9.4 by Incognito unloaded ***
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:09:36] 
+[20:09:36] Server Plugins
+[20:09:36] --------------
+[20:09:36]  Loading plugin: mysql
+[20:09:36]  >> plugin.mysql: R41-4 successfully loaded.
+[20:09:36]   Loaded.
+[20:09:36]  Loading plugin: gvar
+[20:09:36] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:09:36]   Loaded.
+[20:09:36]  Loading plugin: mapandreas
+[20:09:36]   Loaded.
+[20:09:36]  Loading plugin: sscanf
+[20:09:36] 
+
+[20:09:36]  ===============================
+
+[20:09:36]       sscanf plugin loaded.     
+
+[20:09:36]          Version:  2.8.2        
+
+[20:09:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:09:36]  ===============================
+
+[20:09:36]   Loaded.
+[20:09:36]  Loading plugin: streamer
+[20:09:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:09:36]   Loaded.
+[20:09:36]  Loaded 5 plugins.
+
+[20:09:36] 
+[20:09:36] Filterscripts
+[20:09:36] ---------------
+[20:09:36]   Loading filterscript 'Maps.amx'...
+[20:09:36]   Loaded 1 filterscripts.
+
+[20:09:36]  
+[20:09:36]  
+[20:09:36]  
+[20:09:36]  ======================================= 
+[20:09:36]  |                                     | 
+[20:09:36]  |        YSI version 3.09.0684        | 
+[20:09:36]  |        By Alex "Y_Less" Cole        | 
+[20:09:36]  |                                     | 
+[20:09:36]  ======================================= 
+[20:09:36]  
+[20:09:36] 
+MySQL: Connection to 'localhost' established.
+[20:09:36] MySQL: Database 'ESS' selected.
+
+[20:09:36] 10681 - Objects.
+[20:09:36] Number of vehicle models: 13
+[20:09:36] Loaded 140 Properties and 0 reseted!
+[20:09:36] Loaded 1165 houses and 23 reseted!
+[20:09:36] Loaded 6 Gangs.
+[20:09:36] Loaded 14 Gang Pickups.
+[20:09:36] Loaded 22 Gang Teleport Checkpoints.
+[20:09:36] Loaded 6 Gang Gates.
+[20:09:36] Loaded 2 Gang Lifts.
+[20:09:36] Loaded 11 Gang Cars.
+[20:09:36] Loaded 6 Gang Camera Pos.
+[20:09:36] Loaded 6 Gang Houses.
+[20:09:36] Loaded 6 Gang Teritories.
+[20:09:42] [connection] 127.0.0.1:51461 requests connection cookie.
+[20:09:42] [connection] incoming connection: 127.0.0.1:51461 id: 0
+[20:09:42] [join] Ghosty2004 has joined the server (0:127.0.0.1)
+[20:15:46] [part] Ghosty2004 has left the server (0:1)
