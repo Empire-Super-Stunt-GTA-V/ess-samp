@@ -7529,10 +7529,10 @@ public OnGameModeInit()
 {
 	if(SV_DATABASE_TYPE == 1)
 	{
-	    format(ServerInfo[Database_Host], 50, "193.203.39.132");
-	    format(ServerInfo[Database_User], 50, "ghostrpg");
-	    format(ServerInfo[Database_Password], 50, "thuglife23");
-	    format(ServerInfo[Database_Database], 50, "ghostrpg");
+	    format(ServerInfo[Database_Host], 50, "localhost");
+	    format(ServerInfo[Database_User], 50, "root");
+	    format(ServerInfo[Database_Password], 50, "");
+	    format(ServerInfo[Database_Database], 50, "ESS");
 	    FinishDatabaseConnect(0);
 	}
 	//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

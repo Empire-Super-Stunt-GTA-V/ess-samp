@@ -1,0 +1,631 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:35] 
+[19:23:35] Server Plugins
+[19:23:35] --------------
+[19:23:35]  Loaded 0 plugins.
+
+[19:23:35] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:23:35] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:34:20] 
+[19:34:20] Server Plugins
+[19:34:20] --------------
+[19:34:20]  Loaded 0 plugins.
+
+[19:34:20] 
+[19:34:20] Filterscripts
+[19:34:20] ---------------
+[19:34:20]   Loading filterscript 'Maps.amx'...
+[19:34:20]   Loaded 1 filterscripts.
+
+[19:34:20] Script[gamemodes/ESS.amx]: Run time error 19: "File or function is not found"
+[19:34:20] Number of vehicle models: 0
+[19:34:23] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:36:28] 
+[19:36:28] Server Plugins
+[19:36:28] --------------
+[19:36:28]  Loading plugin: mysql
+[19:36:28]   Failed.
+[19:36:28]  Loading plugin: gvar
+[19:36:28] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:36:28]   Loaded.
+[19:36:28]  Loading plugin: mapandreas
+[19:36:28]   Loaded.
+[19:36:28]  Loading plugin: sscanf
+[19:36:28] 
+
+[19:36:28]  ===============================
+
+[19:36:28]       sscanf plugin loaded.     
+
+[19:36:28]          Version:  2.8.2        
+
+[19:36:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:36:28]  ===============================
+
+[19:36:28]   Loaded.
+[19:36:28]  Loading plugin: streamer
+[19:36:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:36:28]   Loaded.
+[19:36:28]  Loaded 4 plugins.
+
+[19:36:28] 
+[19:36:28] Filterscripts
+[19:36:28] ---------------
+[19:36:28]   Loading filterscript 'Maps.amx'...
+[19:36:28]   Loaded 1 filterscripts.
+
+[19:36:28] Script[gamemodes/ESS.amx]: Run time error 19: "File or function is not found"
+[19:36:28] Number of vehicle models: 0
+[19:36:40] --- Server Shutting Down.
+[19:36:40] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[19:36:40] 
+
+[19:36:40]  ===============================
+
+[19:36:40]      sscanf plugin unloaded.    
+
+[19:36:40]  ===============================
+
+[19:36:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:37:50] 
+[19:37:50] Server Plugins
+[19:37:50] --------------
+[19:37:50]  Loading plugin: mysql
+[19:37:50]   Failed.
+[19:37:50]  Loading plugin: gvar
+[19:37:50] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:37:50]   Loaded.
+[19:37:50]  Loading plugin: mapandreas
+[19:37:50]   Loaded.
+[19:37:50]  Loading plugin: sscanf
+[19:37:50] 
+
+[19:37:50]  ===============================
+
+[19:37:50]       sscanf plugin loaded.     
+
+[19:37:50]          Version:  2.8.2        
+
+[19:37:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:37:50]  ===============================
+
+[19:37:50]   Loaded.
+[19:37:50]  Loading plugin: streamer
+[19:37:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:37:50]   Loaded.
+[19:37:50]  Loaded 4 plugins.
+
+[19:37:50] 
+[19:37:50] Filterscripts
+[19:37:50] ---------------
+[19:37:50]   Loading filterscript 'Maps.amx'...
+[19:37:50]   Loaded 1 filterscripts.
+
+[19:37:50] Script[gamemodes/ESS.amx]: Run time error 19: "File or function is not found"
+[19:37:50] Number of vehicle models: 0
+[19:37:56] --- Server Shutting Down.
+[19:37:56] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[19:37:56] 
+
+[19:37:56]  ===============================
+
+[19:37:56]      sscanf plugin unloaded.    
+
+[19:37:56]  ===============================
+
+[19:37:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:38:11] 
+[19:38:11] Server Plugins
+[19:38:11] --------------
+[19:38:11]  Loading plugin: mysql
+[19:38:11]   Failed.
+[19:38:11]  Loading plugin: gvar
+[19:38:11] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:38:11]   Loaded.
+[19:38:11]  Loading plugin: mapandreas
+[19:38:11]   Loaded.
+[19:38:11]  Loading plugin: sscanf
+[19:38:11] 
+
+[19:38:11]  ===============================
+
+[19:38:11]       sscanf plugin loaded.     
+
+[19:38:11]          Version:  2.8.2        
+
+[19:38:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:11]  ===============================
+
+[19:38:11]   Loaded.
+[19:38:11]  Loading plugin: streamer
+[19:38:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:38:11]   Loaded.
+[19:38:11]  Loaded 4 plugins.
+
+[19:38:11] 
+[19:38:11] Filterscripts
+[19:38:11] ---------------
+[19:38:11]   Loading filterscript 'Maps.amx'...
+[19:38:11]   Loaded 1 filterscripts.
+
+[19:38:11] Script[gamemodes/ESS.amx]: Run time error 19: "File or function is not found"
+[19:38:11] Number of vehicle models: 0
+[19:38:15] --- Server Shutting Down.
+[19:38:15] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[19:38:15] 
+
+[19:38:15]  ===============================
+
+[19:38:15]      sscanf plugin unloaded.    
+
+[19:38:15]  ===============================
+
+[19:38:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:38:40] 
+[19:38:40] Server Plugins
+[19:38:40] --------------
+[19:38:40]  Loading plugin: mysql
+[19:38:40]  >> plugin.mysql: R41-4 successfully loaded.
+[19:38:40]   Loaded.
+[19:38:40]  Loading plugin: gvar
+[19:38:40] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:38:40]   Loaded.
+[19:38:40]  Loading plugin: mapandreas
+[19:38:40]   Loaded.
+[19:38:40]  Loading plugin: sscanf
+[19:38:40] 
+
+[19:38:40]  ===============================
+
+[19:38:40]       sscanf plugin loaded.     
+
+[19:38:40]          Version:  2.8.2        
+
+[19:38:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:40]  ===============================
+
+[19:38:40]   Loaded.
+[19:38:40]  Loading plugin: streamer
+[19:38:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:38:40]   Loaded.
+[19:38:40]  Loaded 5 plugins.
+
+[19:38:40] 
+[19:38:40] Filterscripts
+[19:38:40] ---------------
+[19:38:40]   Loading filterscript 'Maps.amx'...
+[19:38:40]   Loaded 1 filterscripts.
+
+[19:38:40]  
+[19:38:40]  
+[19:38:40]  
+[19:38:40]  ======================================= 
+[19:38:40]  |                                     | 
+[19:38:40]  |        YSI version 3.09.0684        | 
+[19:38:40]  |        By Alex "Y_Less" Cole        | 
+[19:38:40]  |                                     | 
+[19:38:40]  ======================================= 
+[19:38:40]  
+[19:38:42] MySQL: Connection to '193.203.39.132' failed.
+[19:38:42] Setting server password to: "revenim123"
+[19:38:42] 10681 - Objects.
+[19:38:42] -mSelection- WARNING: Failed to load list: "skins.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "skins.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "bycikles.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "bikes.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "trucks.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "boats.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "hely.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "planes.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "rcs.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars0.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars1.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars2.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars3.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars4.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars5.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars6.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars7.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars8.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars9.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars10.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Cars11.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[19:38:42] Number of vehicle models: 13
+[19:39:44] --- Server Shutting Down.
+[19:39:44] plugin.mysql: Unloading plugin...
+[19:39:44] plugin.mysql: Plugin unloaded.
+[19:39:44] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[19:39:44] 
+
+[19:39:44]  ===============================
+
+[19:39:44]      sscanf plugin unloaded.    
+
+[19:39:44]  ===============================
+
+[19:39:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:03:33] 
+[20:03:33] Server Plugins
+[20:03:33] --------------
+[20:03:33]  Loading plugin: mysql
+[20:03:33]  >> plugin.mysql: R41-4 successfully loaded.
+[20:03:33]   Loaded.
+[20:03:33]  Loading plugin: gvar
+[20:03:33] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:03:33]   Loaded.
+[20:03:33]  Loading plugin: mapandreas
+[20:03:33]   Loaded.
+[20:03:33]  Loading plugin: sscanf
+[20:03:33] 
+
+[20:03:33]  ===============================
+
+[20:03:33]       sscanf plugin loaded.     
+
+[20:03:33]          Version:  2.8.2        
+
+[20:03:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:03:33]  ===============================
+
+[20:03:33]   Loaded.
+[20:03:33]  Loading plugin: streamer
+[20:03:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:03:33]   Loaded.
+[20:03:33]  Loaded 5 plugins.
+
+[20:03:33] 
+[20:03:33] Filterscripts
+[20:03:33] ---------------
+[20:03:33]   Loading filterscript 'Maps.amx'...
+[20:03:33]   Loaded 1 filterscripts.
+
+[20:03:33] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[20:03:33] Script[gamemodes/ESS.amx]: Run time error 22: "AMX not initialized (or doubly initialized)"
+[20:03:33] Number of vehicle models: 0
+[20:03:49] --- Server Shutting Down.
+[20:03:49] plugin.mysql: Unloading plugin...
+[20:03:49] plugin.mysql: Plugin unloaded.
+[20:03:49] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[20:03:49] 
+
+[20:03:49]  ===============================
+
+[20:03:49]      sscanf plugin unloaded.    
+
+[20:03:49]  ===============================
+
+[20:03:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:02] 
+[20:04:02] Server Plugins
+[20:04:02] --------------
+[20:04:02]  Loading plugin: mysql
+[20:04:02]  >> plugin.mysql: R41-4 successfully loaded.
+[20:04:02]   Loaded.
+[20:04:02]  Loading plugin: gvar
+[20:04:02] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:04:02]   Loaded.
+[20:04:02]  Loading plugin: mapandreas
+[20:04:02]   Loaded.
+[20:04:02]  Loading plugin: sscanf
+[20:04:02] 
+
+[20:04:02]  ===============================
+
+[20:04:02]       sscanf plugin loaded.     
+
+[20:04:02]          Version:  2.8.2        
+
+[20:04:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:04:02]  ===============================
+
+[20:04:02]   Loaded.
+[20:04:02]  Loading plugin: streamer
+[20:04:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:04:02]   Loaded.
+[20:04:02]  Loaded 5 plugins.
+
+[20:04:02] 
+[20:04:02] Filterscripts
+[20:04:02] ---------------
+[20:04:02]   Loading filterscript 'Maps.amx'...
+[20:04:02]   Loaded 1 filterscripts.
+
+[20:04:02] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[20:04:02] Script[gamemodes/ESS.amx]: Run time error 22: "AMX not initialized (or doubly initialized)"
+[20:04:02] Number of vehicle models: 0
+[20:05:22] --- Server Shutting Down.
+[20:05:22] plugin.mysql: Unloading plugin...
+[20:05:22] plugin.mysql: Plugin unloaded.
+[20:05:22] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[20:05:22] 
+
+[20:05:22]  ===============================
+
+[20:05:22]      sscanf plugin unloaded.    
+
+[20:05:22]  ===============================
+
+[20:05:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:22] 
+[20:05:22] Server Plugins
+[20:05:22] --------------
+[20:05:22]  Loading plugin: mysql
+[20:05:22]  >> plugin.mysql: R41-4 successfully loaded.
+[20:05:22]   Loaded.
+[20:05:22]  Loading plugin: gvar
+[20:05:22] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:05:22]   Loaded.
+[20:05:22]  Loading plugin: mapandreas
+[20:05:22]   Loaded.
+[20:05:22]  Loading plugin: sscanf
+[20:05:22] 
+
+[20:05:22]  ===============================
+
+[20:05:22]       sscanf plugin loaded.     
+
+[20:05:22]          Version:  2.8.2        
+
+[20:05:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:05:22]  ===============================
+
+[20:05:22]   Loaded.
+[20:05:22]  Loading plugin: streamer
+[20:05:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:05:22]   Loaded.
+[20:05:22]  Loaded 5 plugins.
+
+[20:05:22] 
+[20:05:22] Filterscripts
+[20:05:22] ---------------
+[20:05:22]   Loading filterscript 'Maps.amx'...
+[20:05:22]   Loaded 1 filterscripts.
+
+[20:05:23]  
+[20:05:23]  
+[20:05:23]  
+[20:05:23]  ======================================= 
+[20:05:23]  |                                     | 
+[20:05:23]  |        YSI version 3.09.0684        | 
+[20:05:23]  |        By Alex "Y_Less" Cole        | 
+[20:05:23]  |                                     | 
+[20:05:23]  ======================================= 
+[20:05:23]  
+[20:05:23] 
+MySQL: Connection to 'localhost' established.
+[20:05:23] MySQL: Database 'ESS' selected.
+
+[20:05:23] 10681 - Objects.
+[20:05:23] -mSelection- WARNING: Failed to load list: "skins.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "skins.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "bycikles.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "bikes.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "trucks.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "boats.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "hely.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "planes.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "rcs.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars0.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars1.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars2.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars3.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars4.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars5.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars6.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars7.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars8.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars9.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars10.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Cars11.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] -mSelection- WARNING: Failed to load list: "Weapons.txt"
+[20:05:23] Number of vehicle models: 13
+[20:05:23] Loaded 140 Properties and 5 reseted!
+[20:05:23] Loaded 1165 houses and 23 reseted!
+[20:05:23] Loaded 6 Gangs.
+[20:05:23] Loaded 14 Gang Pickups.
+[20:05:23] Loaded 22 Gang Teleport Checkpoints.
+[20:05:23] Loaded 6 Gang Gates.
+[20:05:23] Loaded 2 Gang Lifts.
+[20:05:23] Loaded 11 Gang Cars.
+[20:05:23] Loaded 6 Gang Camera Pos.
+[20:05:23] Loaded 6 Gang Houses.
+[20:05:23] Loaded 6 Gang Teritories.
+[20:06:11] [connection] 127.0.0.1:60398 requests connection cookie.
+[20:06:11] [connection] incoming connection: 127.0.0.1:60398 id: 0
+[20:06:12] [join] Ghosty2004 has joined the server (0:127.0.0.1)
+[20:09:35] --- Server Shutting Down.
+[20:09:35] [part] Ghosty2004 has left the server (0:0)
+[20:09:35] plugin.mysql: Unloading plugin...
+[20:09:35] plugin.mysql: Plugin unloaded.
+[20:09:35] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[20:09:35] 
+
+[20:09:35]  ===============================
+
+[20:09:35]      sscanf plugin unloaded.    
+
+[20:09:35]  ===============================
+
+[20:09:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+

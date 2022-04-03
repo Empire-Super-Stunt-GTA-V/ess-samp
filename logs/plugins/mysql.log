@@ -1,0 +1,16 @@
+[19:38:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'ghostrpg'@'84.232.141.144' (using password: YES)'
+[19:38:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'ghostrpg'@'84.232.141.144' (using password: YES)'
+[19:38:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'ghostrpg'@'84.232.141.144' (using password: YES)'
+[19:38:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'ghostrpg'@'84.232.141.144' (using password: YES)'
+[20:05:23] [WARNING] mysql_connect: no password specified (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:1352 -> c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:7538)
+[20:09:36] [WARNING] mysql_connect: no password specified (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:1352 -> c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:7538)
+[20:09:49] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9365)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
+[20:09:49] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0') (c:\Users\Ghost\Desktop\empire-super-stunt-samp-gamemode\gamemodes\ESS.pwn:9376)
