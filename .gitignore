@@ -1,3 +1,2 @@
-*.amx
-logs
 server_log.txt
+*.amx

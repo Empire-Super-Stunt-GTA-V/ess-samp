@@ -711,3 +711,10 @@ MySQL: Connection to 'localhost' established.
 [20:09:42] [connection] incoming connection: 127.0.0.1:51461 id: 0
 [20:09:42] [join] Ghosty2004 has joined the server (0:127.0.0.1)
 [20:15:46] [part] Ghosty2004 has left the server (0:1)
+[20:16:43] --- Server Shutting Down.
+[20:16:43] plugin.mysql: Unloading plugin...
+[20:16:43] plugin.mysql: Plugin unloaded.
+[20:16:43] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
