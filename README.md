@@ -1,5 +1,8 @@
 # Empire Super Stunt SA:MP Game Mode
 
+# Installation
+Some plugins require a specific Redistributable Package (e.g `gvar`: https://www.microsoft.com/en-us/download/details.aspx?id=26999)
+
 # Some media:
 
 Gang System:<br>
